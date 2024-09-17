@@ -1,6 +1,6 @@
 # Backlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+This project is essentially a LetterBox clone but with a video game twist!
 
 ## Development server
 
